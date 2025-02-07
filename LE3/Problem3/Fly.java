@@ -1,0 +1,5 @@
+interface Fly {
+    void fly();
+}
+
+
